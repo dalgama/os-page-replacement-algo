@@ -7,7 +7,7 @@
 + Student Name: Mokhtar Zehrawi (7308460)
 
 ## Project work breakdown:
-### Q1: Answer by Dilanga Algama
+### Q1: Answered by Dilanga Algama
 ### Q2: JAVA code by Dilanga Algama
 ### Q3: C code by Mokhtar Zehrawi
 
