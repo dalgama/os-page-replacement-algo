@@ -1,0 +1,13 @@
+Question 1:
+
+a).
+	- Initial counters to 0.
+	- Increment counter by one whenever a new page is add to the a frame.
+	- Decrement counter by one when the page is no longer needs to be on a frame.
+	- A new page will be replacing a page on a frame with lowest counter.
+
+b). For four frame with this algorithm there will be 14 page faults.
+
+c). The minimum number of page fault for an optimal page replacement strategy for the
+
+	reference string in part b would be 11 page faults.
